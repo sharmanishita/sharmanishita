@@ -1,26 +1,15 @@
-## Hi! I’m Nishita Sharma!
+## 👋 Hi! I’m Nishita Sharma!
 
-- *Aspiring Full-Stack Developer and Software Engineer*
-- *Proven Internship Impact*: Led the "BluePrint" Learning Project at IIT Ropar as NPTEL Summer Intern —gamified, dopamine driven dahsboard with personalized analytics for DSA, amongst the **top 10% performers** in the programme. Delivered automation and code quality tools as DLED Code Review Intern.
-- *Technical Toolbox*: Python, Java, C/C++, HTML/CSS/JS, ReactJS, Bootstrap, MySQL, Linux, GitHub, Tkinter, OpenCV, NumPy, Pillow.
-- *Achievements*: Gold Elite NPTEL Certification (Cybersecurity, IIT Kanpur, 92%), Coursera-certified in UX Design & ML.
-- *Driven by*: Passion for **societal improvement plans**, and building projects to solve *real-world problems* for positive impact.
+💻 *Aspiring Full-Stack Developer & Software Engineer*  
+🚀 *Proven Internship Impact*: Led the **"BluePrint" Learning Project** at IIT Ropar as an NPTEL Summer Intern — a gamified 🎮, dopamine-driven dashboard 📊 with personalized analytics for DSA, ranking among the **top 10% performers** in the programme.  
+⚙️ Delivered automation 🤖 and code quality tools 🧪 as a DLED Code Review Intern.
 
-*Let’s build the future together! Check out my work, connect, and collaborate on GitHub.*
+🛠️ *Technical Toolbox*: Python 🐍, Java ☕, C/C++, HTML/CSS/JS 🎨, ReactJS ⚛️, Bootstrap 🎯, MySQL 🗄️, Linux 🐧, GitHub, MongoDB 
+🏆 *Achievements*: Gold Elite 🥇 NPTEL Certification (Cybersecurity, IIT Kanpur, 92%) 🔐, Coursera-certified in UX Design 🎨 & Machine Learning 🤖  
 
+🌍 *Driven by*: Passion for **societal improvement plans** ❤️, and building projects 💡 to solve **real-world problems** 🌏 for positive impact.  
 
+---
 
-<!--
-**sharmanishita/sharmanishita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ *Let’s build the future together!* Check out my work, connect, and collaborate on GitHub 🔗  
+[github.com/sharmanishita](https://github.com/sharmanishita)
