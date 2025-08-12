@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi! I’m Nishita Sharma!
+
+- *Aspiring Full-Stack Developer and Software Engineer*
+- *Proven Internship Impact*: Led the "BluePrint" Learning Project at IIT Ropar as NPTEL Summer Intern —gamified, dopamine driven dahsboard with personalized analytics for DSA, amongst the **top 10% performers** in the programme. Delivered automation and code quality tools as DLED Code Review Intern.
+- *Technical Toolbox*: Python, Java, C/C++, HTML/CSS/JS, ReactJS, Bootstrap, MySQL, Linux, GitHub, Tkinter, OpenCV, NumPy, Pillow.
+- *Achievements*: Gold Elite NPTEL Certification (Cybersecurity, IIT Kanpur, 92%), Coursera-certified in UX Design & ML.
+- *Driven by*: Passion for **societal improvement plans**, and building projects to solve *real-world problems* for positive impact.
+
+*Let’s build the future together! Check out my work, connect, and collaborate on GitHub.*
+
+
 
 <!--
 **sharmanishita/sharmanishita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
